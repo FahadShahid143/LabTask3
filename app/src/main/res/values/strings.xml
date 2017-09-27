@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LabTask3</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="ener_password">Ener Password</string>
+    <string name="button">Button</string>
 </resources>
